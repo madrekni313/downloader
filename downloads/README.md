@@ -10,6 +10,7 @@
 - [nekoray-4.0.1-2024-12-12-windows64](./nekoray-4.0.1-2024-12-12-windows64)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 - [worker](./worker)
+- [yt-dlp](./yt-dlp)
 
 ---
 
