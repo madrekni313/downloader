@@ -9,6 +9,7 @@
 - [UprightPianoKW-small-SFZ-20190703](./UprightPianoKW-small-SFZ-20190703)
 - [goodbyedpi-0.2.3rc3-2](./goodbyedpi-0.2.3rc3-2)
 - [nekoray-4.0.1-2024-12-12-windows64](./nekoray-4.0.1-2024-12-12-windows64)
+- [tele-mirror-win-x64](./tele-mirror-win-x64)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 - [worker](./worker)
 - [yt-dlp](./yt-dlp)
