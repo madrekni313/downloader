@@ -9,6 +9,7 @@
 - [TgWsProxy_windows](./TgWsProxy_windows)
 - [UprightPianoKW-small-SFZ-20190703](./UprightPianoKW-small-SFZ-20190703)
 - [goodbyedpi-0.2.3rc3-2](./goodbyedpi-0.2.3rc3-2)
+- [mhr-cfw-go-windows-amd64](./mhr-cfw-go-windows-amd64)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [nekoray-4.0.1-2024-12-12-windows64](./nekoray-4.0.1-2024-12-12-windows64)
 - [tele-mirror-win-x64](./tele-mirror-win-x64)
