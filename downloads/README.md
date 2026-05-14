@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [All_in_one_w64](./All_in_one_w64)
+- [AmneziaVPN_4.8.15.4_x64](./AmneziaVPN_4.8.15.4_x64)
 - [BPB-Wizard-windows-amd64](./BPB-Wizard-windows-amd64)
 - [ByeDPI.Manager](./ByeDPI.Manager)
 - [Hiddify-Windows-Setup-x64](./Hiddify-Windows-Setup-x64)
